@@ -1,3 +1,12 @@
+####################################
+# # Project: Comparing-the-classification-performance-of-Support-Vector-Machines-and-the-Perceptron-Algorithm
+# # Author: Simran Tinani
+# # Date: 20-01-2019
+# # Remarks: Inspired by the problems of homework assignment 7 of the Learning from Data telecourse 
+#     by Yaser Abu-Mostafa (CalTech University): https://work.caltech.edu/homework/hw7.pdf
+#####################################
+
+
 N <- 100 # number of training points
 runs <- 1 # Initializing the number of runs
 count <- 0 # Count of number of times Eout for SVM < Eout for PLA (SVM performs better)
